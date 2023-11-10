@@ -48,6 +48,6 @@ Access both virtual machines using Remote Desktop. Enter the IP address, user na
 <img src="https://i.imgur.com/iAsIOyT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Use Wireshark to track ICMP and SSH traffic by pinging a virtual machine and observing the response. Specify ICMP/SSH in Wireshark's search bar to filter the results. 
 </p>
 <br />
