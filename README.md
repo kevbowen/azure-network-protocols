@@ -32,7 +32,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/dtqDg6d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create 2 virtual machines in Azure. You need to ensure that both virtual machines are in the same region and virtual network.
+Create two virtual machines in Azure, one Windows and one Linux, in the same region and virtual network.
 </p>
 <br />
 
