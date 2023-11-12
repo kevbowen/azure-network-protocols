@@ -29,6 +29,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <p>
 <img src="https://i.imgur.com/dtqDg6d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4yIakOV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create two virtual machines in Azure, one Windows and one Linux, in the same region and virtual network.
